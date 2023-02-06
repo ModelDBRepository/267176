@@ -16,4 +16,9 @@ _______________________________________________
 Model written by Qiang Zhang, 2020.   
 Email:2487657812@qq.com 
 
+_______________________________________________
+
+Changelog:
+
+2023-02-06 MOD-C-2-CPP: Compatibility fixed for NEURON 9.0, 8.2 and 8.1
 
